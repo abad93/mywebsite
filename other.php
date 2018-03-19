@@ -9,6 +9,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <div></div>
+    <div>Erase this part.</div>
 </body>
 </html>
